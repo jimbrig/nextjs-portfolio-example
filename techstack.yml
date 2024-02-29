@@ -2,7 +2,7 @@ repo_name: jimbrig/nextjs-portfolio-example
 report_id: 23d2b24d3236dd9afa710698d5a5dc88
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:28:13+00:00'
+timestamp: '2024-02-29T18:58:53+00:00'
 requested_by: jimbrig
 provider: github
 branch: main
@@ -30,7 +30,7 @@ tools:
   detection_source_url: https://github.com/jimbrig/nextjs-portfolio-example
   detection_source: Repo Metadata
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 12.1.0
   open_source: true
